@@ -8,4 +8,4 @@ L'appartamento di partenza si sceglie con `?da=`, per esempio `?da=falloppio-34`
 
 Per aggiornarla: modificare i file in `sorgente/`, poi `python3 costruisci.py` e pubblicare.
 
-Mappa © OpenStreetMap contributors. Percorsi: routing.openstreetmap.de. Leaflet 1.9.4 (BSD-2-Clause).
+Mappa © OpenStreetMap contributors. Percorsi a piedi e in bici calcolati con OSRM (profili foot e bicycle) su estratto Geofabrik nord-est, novembre 2026. Leaflet 1.9.4 (BSD-2-Clause).
